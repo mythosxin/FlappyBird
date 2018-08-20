@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    overflow: hidden;
+}
+#bird{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    position: absolute;
+    left: calc(50% - 50px);
+}
+.topG{  position: absolute;top:0;width:50px;background-color: black;left: 90%;left: 1000px;}
+.bottomG{position: absolute;width:50px;background-color: black;left: 1000px;}
